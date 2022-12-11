@@ -12,6 +12,6 @@
 
 <div align="center">
 
-© All Rights Reserved | The Sube Archive
+© All Rights Reserved | The Sube Archive 2022
 
 </div>
