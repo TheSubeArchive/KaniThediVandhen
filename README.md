@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  * Click [Download directly](Kani-Thedi-Vandhen.mp3 "download") to download now
+  Click [Download directly](song.mp3 "download") to download now
 </div>
 
 
