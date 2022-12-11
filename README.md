@@ -3,11 +3,11 @@
 </div>
 
 
+* Click [download song mp3](song.mp3 "download") to download the song.
 
-<div align="center">
-  Click [Download directly](song.mp3 "download") to download now
-</div>
+* Click [download guitar mp3](song.mp3 "download") to download the guitar stem.
 
+* Click [download vocal mp3](song.mp3 "download") to download  the vocal stem.
 
 
 <div align="center">
